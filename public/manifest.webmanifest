@@ -1,0 +1,9 @@
+{
+  "name": "NER Logistics Intelligence",
+  "short_name": "NER Logistics",
+  "start_url": "/driver",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#0A1628",
+  "description": "Route risk, disruption alerts and field reporting for North East India."
+}
